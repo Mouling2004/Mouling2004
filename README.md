@@ -1,7 +1,7 @@
 👋 Hi there! I'm Mouli Chakraborty, a pre-final year student with a passion for coding and technology.
 
 🔧 Skills:
-Languages: C, Java, Python
+Languages: C, Java, Python.
 Web Development: HTML, CSS, JavaScript
 I enjoy solving problems and creating efficient solutions through code. My journey in software development has been driven by curiosity and a love for learning new technologies.
 
